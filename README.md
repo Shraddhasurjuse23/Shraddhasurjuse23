@@ -28,7 +28,7 @@ An intelligent AI-driven health analytics system built using **KNIME** and **Mac
 🩺 Combines **data preprocessing, feature engineering, and ML modeling** to provide early health insights.  
 📊 Integrated **Power BI** dashboards for visual insights.  
 ⚙️ Future plan: Integrate with **SAP HANA** for enterprise health data automation.  
-🔗 *[View Project Repository](./Health_Pulse_AI_Project/README.md)*  
+🔗 *[TwoStagePrediction](./Health_Pulse_AI_Project/README.md)*  
 
 #### 🔹 **SAP FI Data Analytics Dashboard**  
 Built an interactive **Power BI dashboard** connected to **SAP FI data** for financial insights, variance analysis, and trend visualization.  
